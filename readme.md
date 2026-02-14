@@ -3,7 +3,7 @@
 ## Project Overview
 This lab demonstrates the fundamentals of Infrastructure as Code (IaC) using Terraform to manage Google Cloud Platform (GCP) resources. The project focuses on creating a Cloud Storage bucket with automated lifecycle management policies that delete objects after a specified age.
 
-## What We Built
+## What I Built
 - **Cloud Storage Bucket**: Created a GCP storage bucket using Terraform
 - **Lifecycle Policy**: Implemented automated deletion of objects older than 1 day
 - **Uniform Bucket-Level Access**: Enabled IAM-based access control for security
