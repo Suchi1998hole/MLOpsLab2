@@ -1,0 +1,27 @@
+# Terraform files to ignore
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Sensitive files
+*.pem
+*.key
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test.txt
+*.tmp
